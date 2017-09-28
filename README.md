@@ -8,6 +8,8 @@ Only rotate Dialog without change app's orientation.
 
 ![Custom的旋转图](https://raw.githubusercontent.com/ZhengShang/RotateDialogDemo/master/app/release/2017-09-27-06mzcustomdialog.gif)
 
+Demo[下载](https://raw.githubusercontent.com/ZhengShang/RotateDialogDemo/master/app/release/demo.apk)
+
 ### 思路
 
 1. 设置不同方向上Window的window.setLayout(width,height)大小
