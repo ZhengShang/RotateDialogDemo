@@ -77,7 +77,7 @@ public class BaseDefaultContentDialog extends BaseDialogFragment {
             h = mBeginDialogHeight - 20;
             tranX = (h - w) / 2;
             tranY = (w - h) / 2;
-            window.setLayout(mBeginDialogHeight + 60, w + 100);
+            window.setLayout(h + 80, w + 100);
         } else {
             w = mBeginDialogWidth;
             h = mBeginDialogHeight - dp2px(24);
